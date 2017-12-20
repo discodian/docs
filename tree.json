@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Getting started",
+        "slug": "getting-started",
+        "children": [
+            {
+                "title": "Installation",
+                "slug": "installation",
+                "icon": "fat fa-cloud-download-alt"
+            },
+            {
+                "title": "Configuration",
+                "slug": "configuration",
+                "icon": "fat fa-cogs"
+            }
+        ]
+    }
+]
